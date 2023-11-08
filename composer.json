@@ -1,0 +1,17 @@
+{
+    "name": "dexter/hexlet-php",
+    "description": "studing project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Dexter\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ZimovinMY",
+            "email": "misch.zimowin2013@mail.ru"
+        }
+    ],
+    "require": {}
+}
